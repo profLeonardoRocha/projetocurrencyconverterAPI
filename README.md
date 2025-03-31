@@ -17,6 +17,10 @@ Este projeto é um **Conversor de Moedas** desenvolvido com **HTML, CSS e JavaSc
 ✅ Atualização automática das taxas de câmbio via API.
 ✅ Interface moderna e responsiva.
 
+### Código Javscript
+
+Atenção pois o projeto conta com dois arquivos de Javascript. O arquivo [script_antigo.js](https://github.com/profLeonardoRocha/projetocurrencyconverterAPI/blob/master/script_antigo.js) é o arquivo no qual os valores de cotação foram inseridos manualmente. Caso queira usá-lo, é preciso mudar o nome do arquivo de javascript no arquivo index.html. 
+
 ## 🚀 Como Executar o Projeto
 
 1. Faça o clone do repositório:
@@ -61,6 +65,10 @@ fetch(url)
 ## 📢 Contribuição
 
 Se quiser contribuir para o projeto, sinta-se à vontade para **abrir issues** e **enviar PRs**! 🚀
+
+## Local do projeto original 
+
+Este projeto está disponível no repositório original que pode ser acessado aqui [Projeto Conversor de Moedas com API](https://github.com/leonardossrocha/project-currency-converter-API)
 
 ---
 
